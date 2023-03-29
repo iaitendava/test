@@ -16,4 +16,8 @@ public class Test {
         System.out.printf("%3.3s%n", "hhhh");
         System.out.printf("%3.3s%n", "h");
     }
+
+    public static void testMethod() {
+        System.out.println("test method!");
+    }
 }
