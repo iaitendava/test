@@ -18,6 +18,6 @@ public class Test {
     }
 
     public static void testMethod() {
-        System.out.println("test method!");
+        System.out.println("change message");
     }
 }
